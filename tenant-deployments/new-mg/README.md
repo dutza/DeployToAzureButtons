@@ -10,6 +10,10 @@ languages:
 ---
 # Create a New Management Group
 
+[![Build Status](https://dev.azure.com/dutzageoorge/Learn%20Azure%20DevOps/_apis/build/status/Learn%20Azure%20DevOps?branchName=main)](https://dev.azure.com/dutzageoorge/Learn%20Azure%20DevOps/_build/latest?definitionId=2&branchName=main)
+
+[![Build Status](https://dev.azure.com/dutzageoorge/Learn%20Azure%20DevOps/_apis/build/status/Learn%20Azure%20DevOps?branchName=main&stageName=Validate)](https://dev.azure.com/dutzageoorge/Learn%20Azure%20DevOps/_build/latest?definitionId=2&branchName=main)
+
 ![Azure Public Test Date](https://azurequickstartsservice.blob.core.windows.net/badges/tenant-deployments/new-mg/PublicLastTestDate.svg)
 ![Azure Public Test Result](https://azurequickstartsservice.blob.core.windows.net/badges/tenant-deployments/new-mg/PublicDeployment.svg)
 
@@ -22,6 +26,8 @@ languages:
 [![Deploy To Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2Ftenant-deployments%2Fnew-mg%2Fazuredeploy.json)
 [![Deploy To Azure US Gov](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazuregov.svg?sanitize=true)](https://portal.azure.us/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2Ftenant-deployments%2Fnew-mg%2Fazuredeploy.json)
 [![Visualize](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/visualizebutton.svg?sanitize=true)](http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2Ftenant-deployments%2Fnew-mg%2Fazuredeploy.json)
+
+
 
 This template is a tenant level template that creates a new management group in the tenant.
 
